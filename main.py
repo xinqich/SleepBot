@@ -160,6 +160,6 @@ class SleepBot:
 
 
 # Создание экземпляра бота и запуск
-sleep_bot = SleepBot('6789822373:AAHLeiExeAz4mkA0seZNnqNQTBbCnVHN61k')
+sleep_bot = SleepBot('your_token_here')
 create_tables()
 sleep_bot.run()
